@@ -33,5 +33,5 @@ The Neural Network consists of two layers:
 ## Notes
 Currently, the RelU and Leaky RelU are the two activation functions that are utilized in 
 the model until there is a method for expotential as that will allow for a sigmoid and a proper
-softmax function. Currently, there is a pseudo softmax function to calculate relative probabilities
+softmax function. There is a pseudo softmax function to calculate relative probabilities
 for the classifications but it is lacking the exp implementation. 
